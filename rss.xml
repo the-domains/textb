@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[textb]]></title>
         <description><![CDATA[textb]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/textb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:59:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Apr 2016 17:00:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/textb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Antraste]]></title>
             <description><![CDATA[<article><h1>Antraste</h1><p>The Target executives were taken aback.</p></article>]]></description>
-            <link>undefinedantraste/index.html</link>
+            <link>https://thegrid.ai/textb/antraste/index.html</link>
             <guid isPermaLink="false">15c77de5-0f9b-4952-9c56-bb26485acb28</guid>
-            <pubDate>Wed, 13 Apr 2016 16:59:10 GMT</pubDate>
+            <pubDate>Wed, 13 Apr 2016 17:00:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
