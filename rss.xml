@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[textb]]></title>
+        <description><![CDATA[textb]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:59:10 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Antraste]]></title>
+            <description><![CDATA[<article><h1>Antraste</h1><p>The Target executives were taken aback.</p></article>]]></description>
+            <link>undefinedantraste/index.html</link>
+            <guid isPermaLink="false">15c77de5-0f9b-4952-9c56-bb26485acb28</guid>
+            <pubDate>Wed, 13 Apr 2016 16:59:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
